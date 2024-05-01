@@ -1,4 +1,4 @@
-# SETUP: Building a symptom-checking application with JavaScript ES6
+# SETUP: Building a symptom-checking application with JavaScript ES6 - MA
 
 Are you looking for a base solution to set up your symptom-checking application with JavaScript? See how to do it with Infermedica API.
 
